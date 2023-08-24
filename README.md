@@ -1,6 +1,7 @@
 # Hi there, I am Narayani Bokde 👋
 
-![Profile views](https://gpvc.arturio.dev/narayanibokde9)
+
+<img src="https://komarev.com/ghpvc/?username=narayanibokde9&label=Profile%20views&color=blue&style=flat" alt="narayanibokde9" /> 
 
 Welcome to my profile! I am a Computer Engineering student at Veermata Jijabai Technological Institute, Matunga. I am a Full Stack Web Developer.
 
