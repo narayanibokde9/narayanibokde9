@@ -3,16 +3,17 @@
 
 <img src="https://komarev.com/ghpvc/?username=narayanibokde9&label=Profile%20views&color=blue&style=flat" alt="narayanibokde9" /> 
 
-Welcome to my profile! I am a Computer Engineering student at Veermata Jijabai Technological Institute, Matunga. I am a Full Stack Web Developer.
+Welcome to my profile! I am a  student at Veermata Jijabai Technological Institute, Matunga. I am a .
+I'm a third year Computer Engineering student from Veermata Jijabai Technological Institute (VJTI), Mumbai. I am a Full Stack Web Developer and currently interested in web3.
 
 ## Technologies that I've worked with
-**Languages:** JavaScript, C/C++, Python, HTML, CSS, Java
+**Languages:** JavaScript, C/C++, Python, Solidity, HTML, CSS, Java 
 
 **Frameworks / Libraries:** ReactJS, NodeJS, ExpressJS, Flask, NextJS, Mongoose, MUI, TailwindCSS
 
 **Databases:** MongoDB, MySQL, MariaDB, SQLite
 
-**Others:** Git, Github, REST, Vercel, Postman
+**Others:** Git, Github, REST, Vercel, Postman, Hardhat
 
 ## My Github Stats
 <p align="center">
