@@ -3,7 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=narayanibokde9&label=Profile%20views&color=blue&style=flat" alt="narayanibokde9" /> 
 
-I'm a third year Computer Engineering student from Veermata Jijabai Technological Institute (VJTI), Mumbai. I am a Full Stack Web Developer and currently interested in web3.
+I'm a third year Computer Engineering student from Veermata Jijabai Technological Institute (VJTI), Mumbai. I am a Full Stack Web Developer and currently learning web3.
 
 ## Technologies that I've worked with
 **Languages:** JavaScript, C/C++, Python, Solidity, HTML, CSS, Java 
