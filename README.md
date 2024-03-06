@@ -15,7 +15,7 @@ I'm a third year Computer Engineering student from Veermata Jijabai Technologica
 
 **Databases:** MongoDB, MySQL, MariaDB, SQLite
 
-**Web3 Tools:** Web3.js, Hardhat, Ganache, Metamask, RainbowKit
+**Web3 Tools:** Web3.js, Hardhat, Metamask, RainbowKit
 
 **Others:** Git, GitHub, REST, Vercel, Postman
 
