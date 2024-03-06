@@ -6,13 +6,19 @@
 I'm a third year Computer Engineering student from Veermata Jijabai Technological Institute (VJTI), Mumbai. I am a Full Stack Web Developer and currently learning web3.
 
 ## Technologies that I've worked with
-**Languages:** JavaScript, C/C++, Python, Solidity, HTML, CSS, Java 
 
-**Frameworks / Libraries:** ReactJS, NodeJS, ExpressJS, Flask, NextJS, Mongoose, MUI, TailwindCSS
+**Languages:** JavaScript, C/C++, Python, Solidity, HTML, CSS, Java
+
+**Frameworks / Libraries:** ReactJS, NodeJS, ExpressJS, Flask, NextJS, Mongoose, MUI, TailwindCSS, Ethers.js, RainbowKit
+
+**Blockchain:** Polygon, Solidity
 
 **Databases:** MongoDB, MySQL, MariaDB, SQLite
 
-**Others:** Git, Github, REST, Vercel, Postman, Hardhat
+**Web3 Tools:** Web3.js, Hardhat, Ganache, Metamask, RainbowKit
+
+**Others:** Git, GitHub, REST, Vercel, Postman
+
 
 ## My Github Stats
 <p align="center">
